@@ -28,12 +28,10 @@ GitHub:     Building consistent commit history from Day 1
 - GitHub account created. thapar-journey repo live.
 - Fusion 360 installed via Autodesk Education (free student licence)
 - Python 3 + VS Code installed. CS50P enrolled on edX.
-- Anki installed with German Core 2000 deck
-- Duolingo streak started: Day [N]
+- Duolingo streak started: Day 1
 
 **German progress:**
 - DW Nicos Weg: Episodes 1–7 complete
-- Anki: [N] cards in deck
 - Key vocabulary learned: sein (to be), haben (to have), numbers 1–20, basic greetings
 
 **Fusion 360:**
