@@ -35,18 +35,18 @@ GitHub:     Building consistent commit history from Day 1
 - Key vocabulary learned: sein (to be), haben (to have), numbers 1–20, basic greetings
 
 **Fusion 360:**
-- Lars Christensen Ep 1 + 2 complete
-- Parts built: [describe part, e.g. "simple extrusion from tutorial 1"]
+- Parts built: A toy block from tutorial 1 from kevin kennedy's 30 day series
 - Key concept understood: sketch must be fully constrained before extruding
 
 **Python — CS50P:**
 - Week 0: Functions & Variables lecture watched
-- Problem sets started: [list which ones, e.g. "Indoor Voice — complete"]
+- Problem sets started: Indoor voice, playback
 
 **What surprised me this week:**
-[Write 1–2 sentences about something that was harder or easier than expected]
+Python is not as frustrating as it seemed to be in the beginning 
+Fusion 360 is quite complex 
 
 **Next week focus:**
 - DW Episodes 8–14
-- Fusion 360: Lars Ep 3–5 (sketch tools + part modelling)
+- Fusion 360: Kevin Kennedy Ep 3–5 (sketch tools + part modelling)
 - CS50P: finish Week 0 problem sets, start Week 1
