@@ -35,7 +35,7 @@ GitHub:     Building consistent commit history from Day 1
 - Key vocabulary learned: sein (to be), haben (to have), numbers 1–20, basic greetings
 
 **Fusion 360:**
-- Parts built: A toy block from tutorial 1 from kevin kennedy's 30 day series
+- Parts built: A toy block from tutorial 1 from kevin kennedy's 30 day series, Soda Bottle from tutorial 2, Paperclip from tutorial 3
 - Key concept understood: sketch must be fully constrained before extruding
 
 **Python — CS50P:**
