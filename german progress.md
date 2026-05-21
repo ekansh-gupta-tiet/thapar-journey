@@ -3,3 +3,6 @@
 - Ep 2 (16 May) — numbers 1–100, days of the week
 - Ep 3 (16 May) — present tense verbs, ich/du/er/sie
 - Ep 4 (17 May) — accusative case introduced, articles
+- Ep 5 (19 May) — family vocabulary
+- Ep 6 (20 May) - telling time in german
+- Ep 7 (21 May) - modal verbs wollen, können, müssen
