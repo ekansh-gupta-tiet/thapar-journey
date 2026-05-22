@@ -40,7 +40,7 @@ GitHub:     Building consistent commit history from Day 1
 
 **Python — CS50P:**
 - Week 0: Functions & Variables lecture watched
-- Problem sets started: Indoor voice, playback
+- Problem sets started: Indoor voice, playback, making faces, einstein and tip calculator
 
 **What surprised me this week:**
 Python is not as frustrating as it seemed to be in the beginning 
@@ -48,5 +48,33 @@ Fusion 360 is quite complex
 
 **Next week focus:**
 - DW Episodes 8–14
-- Fusion 360: Kevin Kennedy Ep 3–5 (sketch tools + part modelling)
+- Fusion 360: Kevin Kennedy Ep 4–9
 - CS50P: finish Week 0 problem sets, start Week 1
+
+
+
+
+  ## Week 2 log — 22–28 May 2026
+
+**German progress:**
+- DW Nicos Weg: Episodes 8–14 complete (total: 14)
+- This week's grammar: accusative case, articles der/die/das, food vocabulary
+
+
+**Fusion 360:**
+- Kevin Kennedy's 30 day course - episodes 4- watched
+- Parts built this week: [describe, e.g. "bolt using revolve, L-bracket using extrude + fillet"]
+- Key lesson: fully constrained sketches (black lines) vs unconstrained (blue lines)
+
+**Python — CS50P:**
+- Week 0: ALL 5 problem sets complete — Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator
+- Week 1 (Conditionals): lecture watched, [N] problem sets started
+
+
+**What I learned this week:**
+[1–2 sentences about the most interesting engineering or language concept you encountered]
+
+**Week 3 focus:**
+- DW Episodes 15–21 (past tense arrives this week)
+- Fusion 360: assemblies
+- CS50P: Week 1 conditionals all problem sets
