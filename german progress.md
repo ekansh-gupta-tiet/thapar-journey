@@ -6,3 +6,4 @@
 - Ep 5 (19 May) — family vocabulary
 - Ep 6 (20 May) - telling time in german
 - Ep 7 (21 May) - modal verbs wollen, können, müssen
+- Ep 8 (22 May) - food vocabulary, ich möchte phrase
