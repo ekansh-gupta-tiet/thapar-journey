@@ -1,83 +1,105 @@
 <div align="center">
-  <h1>Thapar → Germany 🇩🇪</h1>
-  <p>BE Mechanical Engineering @ Thapar 2026–30 · Target: MSc Automotive, Germany</p>
+
+# Thapar → Germany 🇩🇪
+
+**BE Mechanical Engineering @ Thapar Institute · 2026–2030**  
+Target: MSc Automotive Engineering, Germany · Expected 2032
+
 </div>
 
-BE Mechanical Engineering @ Thapar Institute 2026-2030
-Goal: MSc Automotive Engineering, Germany · Expected 2030
+---
 
 ## What I'm building
-- CAD portfolio — Fusion 360 parts, assemblies, drawings (pre-college onwards)
-- Python engineering tools — CS50P + automotive data analysis
-- MATLAB/Simulink — vehicle dynamics models (from Sem 2)
-- ANSYS simulation — structural FEA and thermal CFD (from Sem 3)
 
-## Progress log
-Pre-college (May–July 2026):
-- Fusion 360: [N] parts modelled, suspension wishbone with FEA
-- Python: CS50P complete, engineering calculator final project
-- German: DW Nicos Weg A1 Episodes 1–65 complete
-- GitHub: [N] commits
+A 4-year public log of everything I'm learning toward a German MSc in Automotive Engineering — CAD models, Python tools, MATLAB simulations, and language progress, all committed from Day 1.
 
-## Skills in progress
-CAD:        Fusion 360 (active) → CATIA/NX from Sem 4
-Python:     CS50P → numpy/matplotlib → automotive data
-German:     A1 content done · Goethe A1 exam: Oct 2026
-GitHub:     Building consistent commit history from Day 1
+| Track | Tool / Course | Status | Milestone |
+|---|---|---|---|
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 6 | Suspension wishbone with FEA by July |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 in progress | Engineering calculator final project |
+| German | DW Nicos Weg A1 → Goethe A1 | Ep 10 / 65 · Day 9 | Goethe A1 exam — Oct 2026 |
+| MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
+| ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
+
+---
+
+## Pre-college progress (May–July 2026)
+
+- Fusion 360: **6 parts** modelled — toy block, soda bottle, paperclip
+- Python: CS50P Wk 0 complete (5/5 problem sets), Wk 1 in progress
+- German: DW Nicos Weg — 10 episodes complete
+- GitHub: **33 commits** since Day 1
+
+---
 
 ## Week 1 log — 15–21 May 2026
 
-**What I set up this week:**
-- GitHub account created. thapar-journey repo live.
+**Setup:**
+- GitHub account created, `thapar-journey` repo live
 - Fusion 360 installed via Autodesk Education (free student licence)
-- Python 3 + VS Code installed. CS50P enrolled on edX.
-- Duolingo streak started: Day 1
+- Python 3 + VS Code installed, CS50P enrolled on edX
+- DW Nicos Weg started
 
-**German progress:**
-- DW Nicos Weg: Episodes 1–7 complete
-- Key vocabulary learned: sein (to be), haben (to have), numbers 1–20, basic greetings
+**German:**
+- Episodes 1–7 complete
+- Vocabulary: `sein`, `haben`, numbers 1–20, basic greetings
 
-**Fusion 360:**
-- Parts built: Toy block, soda bottle, paperclip
-- Key concept understood: sketch must be fully constrained before extruding
-
-**Python — CS50P:**
-- Week 0: Functions & Variables lecture watched
-- Problem sets started: Indoor voice, playback, making faces, einstein and tip calculator
-
-**What surprised me this week:**
-Python is not as frustrating as it seemed to be in the beginning 
-Fusion 360 is quite complex 
-
-**Next week focus:**
-- DW Episodes 8–14
-- Fusion 360: Kevin Kennedy Ep 4–9
-- CS50P: finish Week 0 problem sets, start Week 1
-
-
-
-
-  ## Week 2 log — 22–28 May 2026
-
-**German progress:**
-- DW Nicos Weg: Episodes 8–14 complete (total: 14)
-- This week's grammar: accusative case, articles der/die/das, food vocabulary
-
-
-**Fusion 360:**
-- Kevin Kennedy's 30 day course - episodes 4- watched
-- Parts built this week: [describe, e.g. "bolt using revolve, L-bracket using extrude + fillet"]
-- Key lesson: fully constrained sketches (black lines) vs unconstrained (blue lines)
+**Fusion 360 (Kevin Kennedy 30-Day Course):**
+- Parts built: toy block, soda bottle, paperclip
+- Key concept: sketch must be fully constrained before extruding
 
 **Python — CS50P:**
-- Week 0: ALL 5 problem sets complete — Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator
+- Week 0 lecture watched
+- Problem sets started: Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator
+
+**What surprised me:** Python is less frustrating than expected. Fusion 360 is genuinely complex.
+
+---
+
+## Week 2 log — 22–28 May 2026
+
+**German:**
+- Episodes 8–10 complete (running total: 10)
+- Grammar covered: accusative case, `der/die/das` articles, food vocabulary, daily routine
+
+**Fusion 360 (Kevin Kennedy 30-Day Course):**
+- Episodes 4–[N] watched
+- Parts built: [describe — e.g. bolt using revolve, L-bracket using extrude + fillet]
+- Key lesson: black lines = fully constrained sketch, blue = underconstrained
+
+**Python — CS50P:**
+- Week 0: ALL 5 problem sets complete — Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator ✅
 - Week 1 (Conditionals): lecture watched, [N] problem sets started
 
-
-**What I learned this week:**
-[1–2 sentences about the most interesting engineering or language concept you encountered]
+**What I learned:** [1–2 sentences on the most interesting concept this week]
 
 **Week 3 focus:**
-- DW Episodes 15–21 (past tense arrives this week)
-- Fusion 360: assemblies
-- CS50P: Week 1 conditionals all problem sets
+- German: Episodes 11–17
+- Fusion 360: [next episodes / topic]
+- CS50P: finish all Week 1 problem sets
+
+---
+
+## Repository structure
+
+```
+thapar-journey/
+├── CAD/                    # Fusion 360 .f3d files + screenshots
+│   └── README.md           # Part index with descriptions
+├── python/
+│   └── cs50p-problemsets/  # CS50P solutions
+├── german-progress.md      # Episode-by-episode DW Nicos Weg log
+└── README.md
+```
+
+---
+
+## Roadmap
+
+```
+Pre-college (May–Jul 2026)    →  CAD basics, CS50P, German A1
+Semester 1–2 (Aug 2026–)     →  Engineering Drawing, MATLAB intro
+Semester 3–4                 →  ANSYS FEA, CATIA/NX, German B1
+Semester 5–6                 →  Research project, internship
+Semester 7–8                 →  Thesis, German B2, MSc applications
+```
