@@ -7,3 +7,5 @@
 - Ep 6 (20 May) - telling time in german
 - Ep 7 (21 May) - modal verbs wollen, können, müssen
 - Ep 8 (22 May) - food vocabulary, ich möchte phrase
+- Ep 9 (23 May) - daily routine
+- Ep 10 (23 May) - dative case intro
