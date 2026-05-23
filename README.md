@@ -1,4 +1,7 @@
-# Thapar → Germany — Engineering Journey
+<div align="center">
+  <h1>Thapar → Germany 🇩🇪</h1>
+  <p>BE Mechanical Engineering @ Thapar 2026–30 · Target: MSc Automotive, Germany</p>
+</div>
 
 BE Mechanical Engineering @ Thapar Institute 2026-2030
 Goal: MSc Automotive Engineering, Germany · Expected 2030
