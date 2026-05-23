@@ -56,29 +56,6 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ---
 
-## Week 2 log — 22–28 May 2026
-
-**German:**
-- Episodes 8–10 complete (running total: 10)
-- Grammar covered: accusative case, `der/die/das` articles, food vocabulary, daily routine
-
-**Fusion 360 (Kevin Kennedy 30-Day Course):**
-- Episodes 4–[N] watched
-- Parts built: [describe — e.g. bolt using revolve, L-bracket using extrude + fillet]
-- Key lesson: black lines = fully constrained sketch, blue = underconstrained
-
-**Python — CS50P:**
-- Week 0: ALL 5 problem sets complete — Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator ✅
-- Week 1 (Conditionals): lecture watched, [N] problem sets started
-
-**What I learned:** [1–2 sentences on the most interesting concept this week]
-
-**Week 3 focus:**
-- German: Episodes 11–17
-- Fusion 360: [next episodes / topic]
-- CS50P: finish all Week 1 problem sets
-
----
 
 ## Repository structure
 
