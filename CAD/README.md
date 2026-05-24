@@ -32,3 +32,4 @@ All `.f3d` source files are in this folder alongside screenshots.
 - [ ] Sem 1: First full assembly (2+ parts with joints)
 - [ ] Sem 2: Suspension wishbone with FEA stress analysis
 - [ ] Sem 3: Migrate to CATIA for coursework
+

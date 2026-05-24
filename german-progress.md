@@ -9,3 +9,4 @@
 - Ep 8 (22 May) - food vocabulary, ich möchte phrase
 - Ep 9 (23 May) - daily routine
 - Ep 10 (23 May) - dative case intro
+- Ep 11 (24 May) - shopping, numbers over 100
