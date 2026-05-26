@@ -11,3 +11,4 @@
 - Ep 10 (23 May) - dative case intro
 - Ep 11 (24 May) - revision
 - Ep 12 (25 May) - shopping, numbers over 100
+- Ep 13 (26 May) - telling the time precisely
