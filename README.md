@@ -16,8 +16,8 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 | Track | Tool / Course | Status | Milestone |
 |---|---|---|---|
 | CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 6 | Suspension wishbone with FEA by July |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 in progress | Engineering calculator final project |
-| German | DW Nicos Weg A1 → Goethe A1 | Ep 10 / 65 · Day 9 | Goethe A1 exam — Oct 2026 |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 in progress | Engineering calculator final project |
+| German | DW Nicos Weg A1 → Goethe A1 | Ep 14 / 65 · Day 14 | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
@@ -25,10 +25,10 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Pre-college progress (May–July 2026)
 
-- Fusion 360: **6 parts** modelled — toy block, soda bottle, paperclip
-- Python: CS50P Wk 0 complete (5/5 problem sets), Wk 1 in progress
-- German: DW Nicos Weg — 10 episodes complete
-- GitHub: **33 commits** since Day 1
+- Fusion 360: **6 parts** modelled — toy block, soda bottle, paperclip, complex bottle, ice cube tray, hex nut
+- Python: CS50P Wk 0 complete (5/5 problem sets), Wk 1 complete (5/5 problem sets)
+- German: DW Nicos Weg — 14 episodes complete
+- GitHub: **50 commits** since Day 1
 
 ---
 
@@ -52,10 +52,31 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 - Week 0 lecture watched
 - Problem sets started: Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator
 
-**What surprised me:** Python is less frustrating than expected. Fusion 360 is genuinely complex.
+**What I learned this week:** Python's syntax is more approachable than expected. Fusion 360 has a steep learning curve but sketch constraints make the logic clear.
 
 ---
 
+## Week 2 log — 22–28 May 2026
+
+**German progress:**
+- DW Nicos Weg: Episodes 8–14 complete (total: 14)
+- Grammar covered: accusative case, der/die/das articles, food vocabulary, daily routine
+
+**Fusion 360 (Kevin Kennedy 30-Day Course):**
+- Episodes 4–6 watched
+- Parts built: complex bottle, ice cube tray, hex nut
+- Key techniques this week: shell tool, rectangular pattern, polygon sketch
+
+**Python — CS50P:**
+- Week 0: All 5 problem sets complete ✅
+- Week 1 (Conditionals): All problem sets complete ✅ 
+
+**What I learned this week:** The pattern tool in Fusion 360 removes a lot of repetitive work — building the ice cube tray made it obvious why parametric CAD is more powerful than manual drafting.
+
+**Week 3 focus:**
+- German: Episodes 15–21
+- Fusion 360: Episodes 7–9
+- CS50P: Week 2 (Loops)
 
 ## Repository structure
 
