@@ -52,7 +52,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 - Week 0 lecture watched
 - Problem sets started: Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator
 
-**What surprised me:** Python is less frustrating than expected. Fusion 360 is genuinely complex.
+**What I learned this week:** Python's syntax is more approachable than expected. Fusion 360 has a steep learning curve but sketch constraints make the logic clear.
 
 ---
 
