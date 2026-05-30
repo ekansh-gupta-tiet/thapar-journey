@@ -13,3 +13,6 @@
 - Ep 12 (25 May) - shopping, numbers over 100
 - Ep 13 (26 May) - directions in German, links/rechts/geradeaus
 - Ep 14 (27 May) - telling the time precisely
+- Ep 15 (28 May) - making plans, modal verbs in context
+- Ep 16 (29 May) - perfekt past tense, haben + participle
+- Ep 17 (30 May) - past tense revision
