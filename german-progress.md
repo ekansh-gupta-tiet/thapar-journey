@@ -16,3 +16,4 @@
 - Ep 15 (28 May) - making plans, modal verbs in context
 - Ep 16 (29 May) - perfekt past tense, haben + participle
 - Ep 17 (30 May) - past tense revision
+- Ep 18 (1 June) - reflexive verbs sich waschen, sich anziehen
