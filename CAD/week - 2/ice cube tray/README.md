@@ -1,5 +1,6 @@
 # Day 5 — Ice Cube Tray
 
+<<<<<<< HEAD
 **Course day:** 5 of 30
 **Built:** 25 May 2026
 **Week:** 2
@@ -32,3 +33,4 @@ Rebuilt from memory: 30 min
 
 - `ice-cube-tray.f3d`
 - `isometric.png`
+
