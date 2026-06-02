@@ -17,3 +17,4 @@
 - Ep 16 (29 May) - perfekt past tense, haben + participle
 - Ep 17 (30 May) - past tense revision
 - Ep 18 (1 June) - reflexive verbs sich waschen, sich anziehen
+- Ep 19 (2 June) - describing people, adjective endings
