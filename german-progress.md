@@ -18,3 +18,4 @@
 - Ep 17 (30 May) - past tense revision
 - Ep 18 (1 June) - reflexive verbs sich waschen, sich anziehen
 - Ep 19 (2 June) - describing people, adjective endings
+- Ep 20 (3 June) - at the doctor, body vocabulary
