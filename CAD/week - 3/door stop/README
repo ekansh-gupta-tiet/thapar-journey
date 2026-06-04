@@ -16,7 +16,7 @@ wedge profile with appropriate wall thickness and no unsupported overhangs.
 - A fully constrained sketch prevents geometry shifting when dimensions change
 
 ## Time taken
-~[N] minutes
+~20 minutes
 
 ## Files
 - `doorstop.f3d` — Fusion 360 source file
