@@ -72,10 +72,30 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **What I learned this week:** The pattern tool in Fusion 360 removes a lot of repetitive work — building the ice cube tray made it obvious why parametric CAD is more powerful than manual drafting.
 
-**Week 3 focus:**
-- German: Episodes 15–21
-- Fusion 360: Episodes 7–9
-- CS50P: Week 2 (Loops)
+## Week 3 log — 29 May – 4 Jun 2026
+
+**German progress:**
+- DW Nicos Weg: Episodes 15–21 complete (total: 21)
+- Grammar covered: Perfekt tense, separable verbs (aufstehen, anrufen),
+  prepositions with accusative and dative
+
+**Fusion 360 (Kevin Kennedy 30-Day Course):**
+- Days 7–8 complete
+- Parts built: extrude alternatives practice (Day 7), 3D printable part (Day 8)
+- Key techniques: boundary fill, press-pull, designing for 3D print constraints
+
+**Python — CS50P:**
+- Week 2 (Loops): All problem sets complete ✅
+
+**What I learned this week:** Designing for 3D printing in Fusion 360 forces
+you to think about the physical object before you model it — wall thickness,
+overhangs, and tolerances are constraints that don't exist in pure CAD work.
+
+**Week 4 focus:**
+- German: Episodes 22–28
+- Fusion 360: Days 9–11 (Phone Stand, Intro to Surfaces)
+- CS50P: Week 3 (Exceptions)
+- Microsoft AI Skills Fest: Jun 8–12
 
 ## Repository structure
 
