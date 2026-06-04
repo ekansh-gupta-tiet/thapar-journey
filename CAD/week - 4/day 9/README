@@ -18,7 +18,7 @@ outline spun 360° around a central axis to create the 3D form.
   self-intersecting geometry
 
 ## Time taken
-~[N] minutes
+~30 minutes
 
 ## Files
 - `bulb.f3d` — Fusion 360 source file
