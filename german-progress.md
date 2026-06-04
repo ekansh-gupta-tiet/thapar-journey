@@ -19,3 +19,4 @@
 - Ep 18 (1 June) - reflexive verbs sich waschen, sich anziehen
 - Ep 19 (2 June) - describing people, adjective endings
 - Ep 20 (3 June) - at the doctor, body vocabulary
+- Ep 21 (4 June) - making plans for future, werden
