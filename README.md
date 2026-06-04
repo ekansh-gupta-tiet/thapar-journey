@@ -14,10 +14,9 @@ Target: MSc Automotive Engineering, Germany · Expected 2032
 A 4-year public log of everything I'm learning toward a German MSc in Automotive Engineering — CAD models, Python tools, MATLAB simulations, and language progress, all committed from Day 1.
 
 | Track | Tool / Course | Status | Milestone |
-|---|---|---|---|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 6 | Suspension wishbone with FEA by July |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 in progress | Engineering calculator final project |
-| German | DW Nicos Weg A1 → Goethe A1 | Ep 14 / 65 · Day 14 | Goethe A1 exam — Oct 2026 |
+|-| CAD     | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 8          | Suspension wishbone with FEA by July |
+| Python  | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ | Engineering calculator final project |
+| German  | DW Nicos Weg A1 → Goethe A1   | Ep 21 / 65 · Week 3 complete          | Goethe A1 exam — Oct 2026            |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
