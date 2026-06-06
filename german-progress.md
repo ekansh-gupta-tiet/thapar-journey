@@ -20,3 +20,6 @@
 - Ep 19 (2 June) - describing people, adjective endings
 - Ep 20 (3 June) - at the doctor, body vocabulary
 - Ep 21 (4 June) - making plans for future, werden
+- Ep 22 (5 June) - dative case, mit/aus/bei/von
+- Ep 23 (6 June) - dative with articles 
+- Ep 24 (6 June) - preposition 
