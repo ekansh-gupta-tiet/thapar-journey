@@ -24,10 +24,10 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Pre-college progress (May–July 2026)
 
-- Fusion 360: **6 parts** modelled — toy block, soda bottle, paperclip, complex bottle, ice cube tray, hex nut
-- Python: CS50P Wk 0 complete (5/5 problem sets), Wk 1 complete (5/5 problem sets)
-- German: DW Nicos Weg — 14 episodes complete
-- GitHub: **50 commits** since Day 1
+- Fusion 360: **9 parts** modelled
+- Python: CS50P Wk 3
+- German: DW Nicos Weg — 21 episodes complete
+- GitHub: **80 commits** since Day 1
 
 ---
 
