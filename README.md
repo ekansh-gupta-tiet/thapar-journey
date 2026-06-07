@@ -12,9 +12,10 @@ Target: MSc Automotive Engineering, Germany · Expected 2032
 ## What I'm building
 
 A 4-year public log of everything I'm learning toward a German MSc in Automotive Engineering — CAD models, Python tools, MATLAB simulations, and language progress, all committed from Day 1.
+
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 8 | Suspension wishbone with FEA by July |
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 9 | Suspension wishbone with FEA by July |
 | Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ | Engineering calculator final project |
 | German | DW Nicos Weg A1 → Goethe A1 | Ep 21 / 65 · Week 3 complete | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
@@ -24,8 +25,8 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Pre-college progress (May–July 2026)
 
-- Fusion 360: **9 parts** modelled
-- Python: CS50P Wk 3
+- Fusion 360: **8 parts** modelled
+- Python: CS50P Wk 2 ✅
 - German: DW Nicos Weg — 21 episodes complete
 - GitHub: **80 commits** since Day 1
 
@@ -68,16 +69,17 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Python — CS50P:**
 - Week 0: All 5 problem sets complete ✅
-- Week 1 (Conditionals): All problem sets complete ✅ 
+- Week 1 (Conditionals): All problem sets complete ✅
 
 **What I learned this week:** The pattern tool in Fusion 360 removes a lot of repetitive work — building the ice cube tray made it obvious why parametric CAD is more powerful than manual drafting.
+
+---
 
 ## Week 3 log — 29 May – 4 Jun 2026
 
 **German progress:**
 - DW Nicos Weg: Episodes 15–21 complete (total: 21)
-- Grammar covered: Perfekt tense, separable verbs (aufstehen, anrufen),
-  prepositions with accusative and dative
+- Grammar covered: Perfekt tense, separable verbs (aufstehen, anrufen), prepositions with accusative and dative
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 7–8 complete
@@ -87,18 +89,17 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 **Python — CS50P:**
 - Week 2 (Loops): All problem sets complete ✅
 
-**What I learned this week:** Designing for 3D printing in Fusion 360 forces
-you to think about the physical object before you model it — wall thickness,
-overhangs, and tolerances are constraints that don't exist in pure CAD work.
+**What I learned this week:** Designing for 3D printing in Fusion 360 forces you to think about the physical object before you model it — wall thickness, overhangs, and tolerances are constraints that don't exist in pure CAD work.
 
 **Week 4 focus:**
 - German: Episodes 22–28
-- Fusion 360: Days 9–11 (Phone Stand, Intro to Surfaces)
+- Fusion 360: Days 9–11 (Transitioning shapes, Phone Stand, Intro to Surfaces)
 - CS50P: Week 3 (Exceptions)
 - Microsoft AI Skills Fest: Jun 8–12
 
-## Repository structure
+---
 
+## Repository structure
 ```
 thapar-journey/
 ├── CAD/                    # Fusion 360 .f3d files + screenshots
