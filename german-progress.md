@@ -10,15 +10,15 @@ Supplement: Anki vocabulary deck + Duolingo daily streak
 
 | Ep | Date | Topic |
 |----|------|-------|
-| 1 | 15 May | Alphabet, sein/haben, basic greetings |
-| 2 | 16 May | Numbers 1–100, days of the week |
-| 3 | 16 May | Present tense verbs, ich/du/er/sie |
-| 4 | 17 May | Accusative case introduced, articles |
-| 5 | 19 May | Family vocabulary |
-| 6 | 20 May | Telling time in German |
-| 7 | 21 May | Modal verbs — wollen, können, müssen |
-| 8 | 22 May | Food vocabulary, ich möchte phrase |
-| 9 | 23 May | Daily routine |
+| 1  | 15 May | Alphabet, sein/haben, basic greetings |
+| 2  | 16 May | Numbers 1–100, days of the week |
+| 3  | 16 May | Present tense verbs, ich/du/er/sie |
+| 4  | 17 May | Accusative case introduced, articles |
+| 5  | 19 May | Family vocabulary |
+| 6  | 20 May | Telling time in German |
+| 7  | 21 May | Modal verbs — wollen, können, müssen |
+| 8  | 22 May | Food vocabulary, ich möchte phrase |
+| 9  | 23 May | Daily routine |
 | 10 | 23 May | Dative case intro |
 | 11 | 24 May | Revision |
 | 12 | 25 May | Shopping, numbers over 100 |
@@ -27,17 +27,15 @@ Supplement: Anki vocabulary deck + Duolingo daily streak
 | 15 | 28 May | Making plans, modal verbs in context |
 | 16 | 29 May | Perfekt past tense — haben + participle |
 | 17 | 30 May | Past tense revision |
-| 18 | 1 Jun | Reflexive verbs — sich waschen, sich anziehen |
-| 19 | 2 Jun | Describing people, adjective endings |
-| 20 | 3 Jun | At the doctor, body vocabulary |
-| 21 | 4 Jun | Making plans for future, werden |
-| 22 | 5 Jun | Dative case — mit/aus/bei/von |
-| 23 | 6 Jun | Dative with articles |
-| 24 | 6 Jun | Prepositions |
-| 25 | — | — |
-| 26 | — | — |
-| 27 | — | — |
-| 28 | — | — |
+| 18 | 1 Jun  | Reflexive verbs — sich waschen, sich anziehen |
+| 19 | 2 Jun  | Describing people, adjective endings |
+| 20 | 3 Jun  | At the doctor, body vocabulary |
+| 21 | 4 Jun  | Making plans for future, werden |
+| 22 | 5 Jun  | Dative case — mit/aus/bei/von |
+| 23 | 6 Jun  | Dative with articles |
+| 24 | 6 Jun  | Prepositions |
+| -  | 7 Jun  | Phone switched to german |
+
 
 ---
 
