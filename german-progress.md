@@ -7,7 +7,7 @@ Supplement: Duolingo daily streak
 ---
 
 ## Episode log
-
+|---|---|---|
 | 1  | 15 May  | Alphabet, sein/haben, basic greetings |
 | 2  | 16 May  | Numbers 1–100, days of the week |
 | 3  | 16 May  | Present tense verbs, ich/du/er/sie |
