@@ -36,6 +36,12 @@ Supplement: Duolingo daily streak
 | 25 | 8 Jun | Konjunktiv II — würde + Infinitiv, polite wishes |
 ---
 
+## Track change — Week 5 (Jun 2026)
+Primary track switched from DW Nicos Weg to:
+- Language Transfer Complete German (grammar backbone)
+- Easy German YouTube (daily input)
+DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool only.
+
 ## Weekly summary
 
 | Week | Dates | Episodes | Grammar focus |
