@@ -34,6 +34,7 @@ Supplement: Duolingo daily streak
 | 23 | 6 Jun | Dative with articles |
 | 24 | 6 Jun | Two-way prepositions — an/auf/in with accusative and dative |
 | 25 | 8 Jun | Konjunktiv II — würde + Infinitiv, polite wishes |
+| 26 | 9 Jun | Subordinate clauses — weil/dass/wenn |
 ---
 
 ## Track change — Week 5 (Jun 2026)
@@ -42,6 +43,16 @@ Primary track switched from DW Nicos Weg to:
 - Easy German YouTube (daily input)
 DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool only.
 
+## Language Transfer log
+| Track | Date | Concept |
+|-------|------|---------|
+| — | — | — |
+
+## Easy German log
+| Video | Date | Topic | Comprehension |
+|-------|------|-------|---------------|
+| — | — | — | — |
+
 ## Weekly summary
 
 | Week | Dates | Episodes | Grammar focus |
@@ -49,7 +60,7 @@ DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool onl
 | 1 | 15–21 May | 1–7 | sein/haben, present tense, accusative, modal verbs |
 | 2 | 22–28 May | 8–14 | Food/routine vocab, dative intro, shopping, directions, time |
 | 3 | 29 May – 4 June | 15–21 | Perfekt tense, reflexive verbs, adjective endings, werden |
-| 4 | 5–11 June | 22– | Dative prepositions |
+| 4 | 5–11 June | 22–28 | Dative prepositions |
 
 ---
 
