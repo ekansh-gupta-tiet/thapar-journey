@@ -15,9 +15,9 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 9 | Suspension wishbone with FEA by July |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ | Engineering calculator final project |
-| German | DW Nicos Weg A1 → Goethe A1 | Ep 21 / 65 · Week 3 complete | Goethe A1 exam — Oct 2026 |
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 11 | Suspension corner assembly by July |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 in progress | Engineering calculator final project |
+| German | Language Transfer + Easy German YouTube + Anki | Ep 26 / 65 · Week 4 complete | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
@@ -25,10 +25,10 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Pre-college progress (May–July 2026)
 
-- Fusion 360: **8 parts** modelled
-- Python: CS50P Wk 2 ✅
-- German: DW Nicos Weg — 21 episodes complete
-- GitHub: **80 commits** since Day 1
+- Fusion 360: **10 parts** modelled
+- Python: CS50P Wk 2 ✅ · Wk 3 in progress
+- German: DW Nicos Weg — 26 episodes complete
+- GitHub: commits ongoing since Day 1
 
 ---
 
@@ -91,22 +91,47 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **What I learned this week:** Designing for 3D printing in Fusion 360 forces you to think about the physical object before you model it — wall thickness, overhangs, and tolerances are constraints that don't exist in pure CAD work.
 
-**Week 4 focus:**
-- German: Episodes 22–28
-- Fusion 360: Days 9–11 (Transitioning shapes, Phone Stand, Intro to Surfaces)
-- CS50P: Week 3 (Exceptions)
-- Microsoft AI Skills Fest: Jun 8–12
+---
+
+## Week 4 log — 5–11 Jun 2026
+
+**German progress:**
+- DW Nicos Weg: Episodes 22–26 complete (total: 26)
+- German study track restructured: Language Transfer (Complete German) is now the grammar backbone, Easy German YouTube is the primary daily input, Nicos Weg demoted to grammar reference only
+- Anki: 10 words/day maintained; Duolingo: 15 min nightly maintained
+
+**Fusion 360 (Kevin Kennedy 30-Day Course):**
+- Days 9–10 complete; Day 11 (Intro to Surfaces) in progress
+- Parts built: transitioning shapes (Day 9), phone stand (Day 10)
+- Key techniques: loft with rails, form-based surface modelling introduction
+
+**Python — CS50P:**
+- Week 3 (Exceptions) in progress
+
+**Microsoft AI Skills Fest:**
+- Completed "Students - Get the job" playlist (Jun 8–12)
+- Voucher claim form submitted; AI-900 exam to be taken before Aug 18
+
+**What I learned this week:** Language Transfer builds grammar through pattern recognition rather than memorisation — it is more effective for internalising German sentence structure than episode-based content alone. In Fusion 360, surfaces require a different mental model from solid bodies; the phone stand project made clear how sketch planes and loft profiles interact when the geometry stops being simple.
+
+**Week 5 focus (12–18 Jun 2026):**
+- Fusion 360: Days 11–30 — complete the Kevin Kennedy 30-day course this week
+- CS50P: finish Week 3 (Exceptions), begin Week 4 (File I/O)
+- German: Language Transfer 1 conversation/day · Easy German 1 video/day · Anki 10 words · Duolingo 15 min nightly · Nicos Weg reference only
+- AI-900: redeem voucher on arrival, book exam slot (deadline Aug 18)
 
 ---
 
 ## Repository structure
 ```
 thapar-journey/
-├── CAD/                    # Fusion 360 .f3d files + screenshots
-│   └── README.md           # Part index with descriptions
+├── cad/                    # Fusion 360 .f3d files + screenshots
+│   ├── week1-4/            # Kevin Kennedy daily parts
+│   └── portfolio/
+│       └── suspension-corner/   # Pre-college portfolio project (Weeks 6–8)
 ├── python/
 │   └── cs50p-problemsets/  # CS50P solutions
-├── german-progress.md      # Episode-by-episode DW Nicos Weg log
+├── german-progress.md      # Episode-by-episode log
 └── README.md
 ```
 
