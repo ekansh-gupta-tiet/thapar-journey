@@ -1,0 +1,20 @@
+### What I built
+Introductory surface body using the Patch and Loft tools — a curved surface panel to explore how surface modelling differs from solid body workflows.
+
+### Techniques used
+- Patch tool to fill open edges
+- Loft across non-parallel profiles
+- Stitch tool to convert surface to solid
+- Thicken command
+
+### Key rules learned
+- Surfaces have no volume — they are infinitely thin until thickened or stitched
+- Every open edge must be closed before stitching to solid
+- Surface bodies and solid bodies live in separate containers in the browser
+
+### Time taken
+~45 min
+
+### Files
+- `day11-surface-intro.f3d`
+- `isometric.png`
