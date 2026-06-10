@@ -16,7 +16,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
 | CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 11 | Suspension corner assembly by July |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 in progress | Engineering calculator final project |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ | Engineering calculator final project |
 | German | Language Transfer + Easy German YouTube + Anki | Ep 26 / 65 · Week 4 complete | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
@@ -26,7 +26,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 ## Pre-college progress (May–July 2026)
 
 - Fusion 360: **10 parts** modelled
-- Python: CS50P Wk 2 ✅ · Wk 3 in progress
+- Python: CS50P Wk 2 ✅ · Wk 3 ✅
 - German: DW Nicos Weg — 26 episodes complete
 - GitHub: commits ongoing since Day 1
 
@@ -83,7 +83,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 7–8 complete
-- Parts built: handle bar (Day 7), 3D printable doorstop (Day 8)
+- Parts built: extrude alternatives practice (Day 7), 3D printable part (Day 8)
 - Key techniques: boundary fill, press-pull, designing for 3D print constraints
 
 **Python — CS50P:**
@@ -102,11 +102,11 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 9–10 complete; Day 11 (Intro to Surfaces) in progress
-- Parts built: bulb (Day 9), phone stand (Day 10)
+- Parts built: transitioning shapes (Day 9), phone stand (Day 10)
 - Key techniques: loft with rails, form-based surface modelling introduction
 
 **Python — CS50P:**
-- Week 3 (Exceptions) in progress
+- Week 3 (Exceptions): All problem sets complete ✅
 
 **Microsoft AI Skills Fest:**
 - Completed "Students - Get the job" playlist (Jun 8–12)
@@ -116,7 +116,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Week 5 focus (12–18 Jun 2026):**
 - Fusion 360: Days 11–30 — complete the Kevin Kennedy 30-day course this week
-- CS50P: finish Week 3 (Exceptions), begin Week 4 (File I/O)
+- CS50P: begin Week 4 (File I/O)
 - German: Language Transfer 1 conversation/day · Easy German 1 video/day · Anki 10 words · Duolingo 15 min nightly · Nicos Weg reference only
 - AI-900: redeem voucher on arrival, book exam slot (deadline Aug 18)
 
