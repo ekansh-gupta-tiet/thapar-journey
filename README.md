@@ -83,7 +83,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 7–8 complete
-- Parts built: extrude alternatives practice (Day 7), 3D printable part (Day 8)
+- Parts built: handle bar (Day 7), 3D printable doorstop (Day 8)
 - Key techniques: boundary fill, press-pull, designing for 3D print constraints
 
 **Python — CS50P:**
@@ -102,7 +102,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 9–10 complete; Day 11 (Intro to Surfaces) in progress
-- Parts built: transitioning shapes (Day 9), phone stand (Day 10)
+- Parts built: bulb (Day 9), phone stand (Day 10)
 - Key techniques: loft with rails, form-based surface modelling introduction
 
 **Python — CS50P:**

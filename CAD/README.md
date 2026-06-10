@@ -15,9 +15,9 @@ All `.f3d` source files are in this folder alongside screenshots.
 | 4 | Complex glass bottle | KK Day 4 | Loft, construction planes, intersect |
 | 5 | Ice cube tray | KK Day 5 | Extrude cut, rectangular pattern |
 | 6 | Hex nut | KK Day 6 | Polygon, mirror, thread |
-| 7 | Loft/sweep practice | KK Day 7 | Loft, sweep, boundary fill |
-| 8 | 3D printable bracket | KK Day 8 | Press-pull, wall thickness, print constraints |
-| 9 | Transitioning shapes | KK Day 9 | Loft between profiles, guide rails |
+| 7 | Handle bar | KK Day 7 | Loft, sweep, boundary fill |
+| 8 | 3D printable doorstop | KK Day 8 | Press-pull, wall thickness, print constraints |
+| 9 | Bulb | KK Day 9 | Loft between profiles, guide rails |
 | 10 | Phone stand | KK Day 10 | User parameters, press-pull, chamfer |
 
 *KK = Kevin Kennedy's 30-Day Fusion 360 course*
