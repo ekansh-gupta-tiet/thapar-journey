@@ -1,22 +1,30 @@
-Day - 11
+# Day 11 — Dog Bowl
 
-### What I built
-Introductory surface body using the Patch and Loft tools — a curved surface panel to explore how surface modelling differs from solid body workflows.
+**Course day:** 11 of 30 · **Built:** 10 Jun 2026 · **Week:** 4
 
-### Techniques used
-- Patch tool to fill open edges
-- Loft across non-parallel profiles
-- Stitch tool to convert surface to solid
-- Thicken command
+---
 
-### Key rules learned
-- Surfaces have no volume — they are infinitely thin until thickened or stitched
-- Every open edge must be closed before stitching to solid
-- Surface bodies and solid bodies live in separate containers in the browser
+## What I built
 
-### Time taken
-~45 min
+A dog bowl modelled using surface tools — patch and stitch workflow to create the bowl shape, then thickened into a solid.
 
-### Files
-- `day11-surface-intro.f3d`
-- `isometric.png`
+## Techniques used
+
+- Surface Patch to create the curved bowl profile
+- Stitch to close the surface into a watertight body
+- Thicken to convert surface to solid with uniform wall thickness
+
+## Key rules learned
+
+- Patch fills an open boundary with a surface — all edges of the boundary must be connected for it to work
+- Stitch requires all edges to be within tolerance — gaps cause it to fail
+- Thicken direction matters: inward vs outward changes the final wall geometry
+
+## Time taken
+
+~40 min
+
+## Files
+
+- `dog-bowl.f3d` — Fusion 360 file
+- `isometric.png` — clean isometric screenshot
