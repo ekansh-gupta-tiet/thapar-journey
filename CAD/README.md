@@ -21,6 +21,7 @@ All `.f3d` source files are in each day's subfolder alongside screenshots.
 | 10 | Phone stand | KK Day 10 | User parameters, press-pull, chamfer |
 | 11 | Dog bowl | KK Day 11 | Patch, loft, stitch, thicken |
 | 12 | Screwdriver | KK Day 12 | Revolve, loft, multi-body |
+| 13 | Tea kettle | KK Day 13 | Design intent, geometric constraints, parameters, Paste New, revolve |
 
 *KK = Kevin Kennedy's 30-Day Fusion 360 course*
 
