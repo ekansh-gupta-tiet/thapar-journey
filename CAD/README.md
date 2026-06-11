@@ -19,8 +19,8 @@ All `.f3d` source files are in each day's subfolder alongside screenshots.
 | 8 | 3D printable doorstop | KK Day 8 | Press-pull, wall thickness, print constraints |
 | 9 | Bulb | KK Day 9 | Loft between profiles, guide rails |
 | 10 | Phone stand | KK Day 10 | User parameters, press-pull, chamfer |
-| 11 | Surface panel | KK Day 11 | Patch, loft, stitch, thicken |
-| 12 | SVG import plaque | KK Day 12 | Insert SVG, extrude from vector profile |
+| 11 | Dog bowl | KK Day 11 | Patch, loft, stitch, thicken |
+| 12 | Screwdriver | KK Day 12 | Revolve, loft, multi-body |
 
 *KK = Kevin Kennedy's 30-Day Fusion 360 course*
 
