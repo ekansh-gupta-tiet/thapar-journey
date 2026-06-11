@@ -1,7 +1,7 @@
 # CAD Portfolio
 
 Fusion 360 parts built during Kevin Kennedy's 30-Day course and beyond.
-All `.f3d` source files are in this folder alongside screenshots.
+All `.f3d` source files are in each day's subfolder alongside screenshots.
 
 ---
 
@@ -19,6 +19,8 @@ All `.f3d` source files are in this folder alongside screenshots.
 | 8 | 3D printable doorstop | KK Day 8 | Press-pull, wall thickness, print constraints |
 | 9 | Bulb | KK Day 9 | Loft between profiles, guide rails |
 | 10 | Phone stand | KK Day 10 | User parameters, press-pull, chamfer |
+| 11 | Surface panel | KK Day 11 | Patch, loft, stitch, thicken |
+| 12 | SVG import plaque | KK Day 12 | Insert SVG, extrude from vector profile |
 
 *KK = Kevin Kennedy's 30-Day Fusion 360 course*
 
@@ -34,7 +36,7 @@ All `.f3d` source files are in this folder alongside screenshots.
 
 ## Progression target
 
-- [ ] Pre-college: 15+ individual parts + suspension corner assembly (wishbone, upright, hub, brake disc)
+- [ ] Pre-college: 30 KK parts + suspension corner assembly (wishbone, upright, hub, brake disc)
 - [ ] Sem 1: First full assembly (2+ parts with joints)
 - [ ] Sem 3: ANSYS FEA for structural coursework
 - [ ] Sem 4: Migrate to CATIA/NX for advanced modelling
