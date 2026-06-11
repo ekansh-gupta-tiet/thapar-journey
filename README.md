@@ -15,9 +15,9 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 11 | Suspension corner assembly by July |
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 12 | Suspension corner assembly by July |
 | Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ | Engineering calculator final project |
-| German | Language Transfer + Easy German YouTube + Anki | Ep 26 / 65 · Week 4 complete | Goethe A1 exam — Oct 2026 |
+| German | Language Transfer + Easy German YouTube + Anki | LT Track 3 · Easy German Ep 1 · Week 5 active | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
@@ -25,9 +25,9 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Pre-college progress (May–July 2026)
 
-- Fusion 360: **10 parts** modelled
-- Python: CS50P Wk 2 ✅ · Wk 3 ✅
-- German: DW Nicos Weg — 26 episodes complete
+- Fusion 360: **12 parts** modelled
+- Python: CS50P Wk 2 ✅ · Wk 3 ✅ · Wk 4 lecture watched
+- German: LT Track 3 active · Easy German Ep 1 · Nicos Weg frozen at ep 26
 - GitHub: commits ongoing since Day 1
 
 ---
@@ -63,7 +63,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 - Grammar covered: accusative case, der/die/das articles, food vocabulary, daily routine
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
-- Episodes 4–6 watched
+- Days 4–6 complete
 - Parts built: complex bottle, ice cube tray, hex nut
 - Key techniques this week: shell tool, rectangular pattern, polygon sketch
 
@@ -101,8 +101,8 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 - Anki: 10 words/day maintained; Duolingo: 15 min nightly maintained
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
-- Days 9–10 complete; Day 11 (Intro to Surfaces) in progress
-- Parts built: transitioning shapes (Day 9), phone stand (Day 10)
+- Days 9–12 complete
+- Parts built: transitioning shapes (Day 9), phone stand (Day 10), surface intro (Day 11), SVG import plaque (Day 12)
 - Key techniques: loft with rails, form-based surface modelling introduction
 
 **Python — CS50P:**
@@ -116,7 +116,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Week 5 focus (12–18 Jun 2026):**
 - Fusion 360: Days 11–30 — complete the Kevin Kennedy 30-day course this week
-- CS50P: begin Week 4 (File I/O)
+- CS50P: Week 4 (File I/O) — lecture watched, problem sets in progress
 - German: Language Transfer 1 conversation/day · Easy German 1 video/day · Anki 10 words · Duolingo 15 min nightly · Nicos Weg reference only
 - AI-900: redeem voucher on arrival, book exam slot (deadline Aug 18)
 
