@@ -1,12 +1,31 @@
-# German Progress — DW Nicos Weg
+# German Progress — Language Transfer + Easy German
 
 Target: Goethe A1 — October/November 2026
-Course: [DW Nicos Weg](https://learngerman.dw.com/en/nicos-weg/c-36519789)
-Supplement: Duolingo daily streak
 
 ---
 
-## Episode log
+## Language Transfer log
+
+| Track | Date | Concept |
+|-------|------|---------|
+| 1 | May 2026 | Introductory — core verb/pronoun foundation |
+| 2 | May 2026 | Introductory |
+| 3 | 11 Jun 2026 | Introductory |
+
+---
+
+## Easy German log
+
+| Video | Date | Topic | Comprehension |
+|-------|------|-------|---------------|
+| Super Easy German Ep 1 | 11 Jun 2026 | — | — |
+
+---
+
+## DW Nicos Weg log — reference only (frozen at ep 26)
+
+Course: [DW Nicos Weg](https://learngerman.dw.com/en/nicos-weg/c-36519789)
+
 | Ep | Date | Topic |
 |----|------|-------|
 | 1 | 15 May | Alphabet, sein/haben, basic greetings |
@@ -35,32 +54,28 @@ Supplement: Duolingo daily streak
 | 24 | 6 Jun | Two-way prepositions — an/auf/in with accusative and dative |
 | 25 | 8 Jun | Konjunktiv II — würde + Infinitiv, polite wishes |
 | 26 | 9 Jun | Subordinate clauses — weil/dass/wenn |
+
 ---
 
 ## Track change — Week 5 (Jun 2026)
+
 Primary track switched from DW Nicos Weg to:
 - Language Transfer Complete German (grammar backbone)
 - Easy German YouTube (daily input)
+
 DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool only.
 
-## Language Transfer log
-| Track | Date | Concept |
-|-------|------|---------|
-| — | — | — |
-
-## Easy German log
-| Video | Date | Topic | Comprehension |
-|-------|------|-------|---------------|
-| — | — | — | — |
+---
 
 ## Weekly summary
 
-| Week | Dates | Episodes | Grammar focus |
-|------|-------|----------|---------------|
-| 1 | 15–21 May | 1–7 | sein/haben, present tense, accusative, modal verbs |
-| 2 | 22–28 May | 8–14 | Food/routine vocab, dative intro, shopping, directions, time |
-| 3 | 29 May – 4 June | 15–21 | Perfekt tense, reflexive verbs, adjective endings, werden |
-| 4 | 5–11 June | 22–28 | Dative prepositions |
+| Week | Dates | LT Tracks | NW Episodes | Grammar focus |
+|------|-------|-----------|-------------|---------------|
+| 1 | 15–21 May | — | 1–7 | sein/haben, present tense, accusative, modal verbs |
+| 2 | 22–28 May | — | 8–14 | Food/routine vocab, dative intro, shopping, directions, time |
+| 3 | 29 May – 4 Jun | — | 15–21 | Perfekt tense, reflexive verbs, adjective endings, werden |
+| 4 | 5–11 Jun | — | 22–26 | Dative prepositions, Konjunktiv II, subordinate clauses |
+| 5 | 12–18 Jun | 1–3 | — | Introductory — verb/pronoun foundation (LT) |
 
 ---
 
@@ -69,6 +84,6 @@ DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool onl
 | Exam | Target date | Status |
 |------|-------------|--------|
 | Goethe-Zertifikat A1 | Oct / Nov 2026 | Preparing |
-| Goethe-Zertifikat A2 | May / June 2027 | — |
-| Goethe-Zertifikat B1 | May / June 2028 | — |
+| Goethe-Zertifikat A2 | May / Jun 2027 | — |
+| Goethe-Zertifikat B1 | May / Jun 2028 | — |
 | Goethe-Zertifikat B2 | Sem 6 (2029) | — |
