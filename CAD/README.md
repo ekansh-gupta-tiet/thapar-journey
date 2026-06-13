@@ -22,6 +22,9 @@ All `.f3d` source files are in each day's subfolder alongside screenshots.
 | 11 | Dog bowl | KK Day 11 | Patch, loft, stitch, thicken |
 | 12 | Screwdriver | KK Day 12 | Revolve, loft, multi-body |
 | 13 | Tea kettle | KK Day 13 | Design intent, geometric constraints, parameters, Paste New, revolve |
+| 14 | Sketch constraints challenge | KK Day 14 | All 12 sketch constraints, fully defining sketches, constraint vs dimension |
+| 15 | Painter's tripod | KK Day 15 | Multi-body, symmetry, joints intro |
+| 16 | Sketch constraints advanced | KK Day 16 | Fully defining sketches, geometric constraints |
 
 *KK = Kevin Kennedy's 30-Day Fusion 360 course*
 
