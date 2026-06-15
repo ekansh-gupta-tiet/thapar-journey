@@ -1,34 +1,52 @@
-# CAD Portfolio
+# Fusion 360 – 30 Days CAD Log
 
-Fusion 360 parts built during Kevin Kennedy's 30-Day course and beyond.
-All `.f3d` source files are in each day's subfolder alongside screenshots.
+**Course:** Learn Autodesk Fusion 360 in 30 Days – 2026 Edition  
+**Instructor:** Kevin Kennedy (Product Design Online)  
+**Playlist:** [youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr](https://youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)
+
+> **Note:** The 2026 playlist has no Day 16 or Day 17.  
+> Days 13–14 in this log use equivalent content from the 2023 edition (Days 16 & 17).  
+> All numbering follows the 2026 edition throughout.
+
+---
+
+## Progress Tracker
+
+| Day | Part / Topic | Week | Status 
+|-----|-------------|------|--------|
+| 01 | Toy Block | 1 | ✅ | 
+| 02 | Glass Soda Bottle (pt 1) | 1 | ✅ | 
+| 03 | paperclip | 1 | ✅ |  
+| 04 | Complex Bottle | 2 | ✅ |  
+| 05 | Ice Cube Tray | 2 | ✅ |  
+| 06 | Hex Nut | 2 | ✅ |  
+| 07 | handle bar | 3 | ✅ |  
+| 08 | Doorstop | 3 | ✅ |  
+| 09 | Bulb | 4 | ✅ | 
+| 10 | Phone Stand | 4 | ✅ |  
+| 11 | Dog Bowl (Intro to Surfaces) | 4 | ✅ |  
+| 12 | Slotted Screwdriver | 4 | ✅ |  
+| 13 | Tea Kettle | 5 | ✅ |  
+| 14 | Sketch Constraints *(theory — 2023 D17)* | 5 | ✅ |  
+| 15 | Painter's tripod | 5 | ✅ |
 
 ---
 
-## Part index
+## Portfolio Project
 
-| # | Part | Course reference | Key techniques |
-|---|------|-----------------|----------------|
-| 1 | Toy block | KK Day 1 | Sketch, extrude, fillet |
-| 2 | Soda bottle | KK Day 2 | Revolve, shell |
-| 3 | Paperclip | KK Day 3 | Spline, sweep |
-| 4 | Complex glass bottle | KK Day 4 | Loft, construction planes, intersect |
-| 5 | Ice cube tray | KK Day 5 | Extrude cut, rectangular pattern |
-| 6 | Hex nut | KK Day 6 | Polygon, mirror, thread |
-| 7 | Handle bar | KK Day 7 | Loft, sweep, boundary fill |
-| 8 | 3D printable doorstop | KK Day 8 | Press-pull, wall thickness, print constraints |
-| 9 | Bulb | KK Day 9 | Loft between profiles, guide rails |
-| 10 | Phone stand | KK Day 10 | User parameters, press-pull, chamfer |
-| 11 | Dog bowl | KK Day 11 | Patch, loft, stitch, thicken |
-| 12 | Screwdriver | KK Day 12 | Revolve, loft, multi-body |
-| 13 | Tea kettle | KK Day 13 | Design intent, geometric constraints, parameters, Paste New, revolve |
-| 14 | Sketch constraints challenge | KK Day 14 | All 12 sketch constraints, fully defining sketches, constraint vs dimension |
-| 15 | Painter's tripod | KK Day 15 | Multi-body, symmetry, joints intro |
-| 16 | Sketch constraints advanced | KK Day 16 | Fully defining sketches, geometric constraints |
+**Suspension Corner Assembly**  
+A complete double-wishbone suspension corner (wishbone + upright + hub + brake disc) built as the centrepiece CAD portfolio piece for SAE Thapar application.
 
-*KK = Kevin Kennedy's 30-Day Fusion 360 course*
+| Component | Status |
+|-----------|--------|
+| Anatomy research & briefing | ⬜ |
+| Wishbone | ⬜ |
+| Upright + Hub | ⬜ |
+| Brake Disc | ⬜ |
+| Full Assembly | ⬜ |
 
----
+Folder: `cad/portfolio/suspension-corner/`  
+Design work begins: June 24, 2026
 
 ## How to open these files
 
