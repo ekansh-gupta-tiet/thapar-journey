@@ -36,9 +36,9 @@
 | 23 | Assemblies with Joints | 5 | ✅ |
 | 24 | Sheet Metal | 5 | ✅ |
 | 25 | Surface Modeling – Propeller | 5 | ✅ |
-| 26 | Sculpt / Form Modeling | 5 | ✅ |
-| 27 | CAM – Toolpaths & Manufacturing | 5 | ✅ |
-| 28 | Simulation – Stress Analysis | 5 | ✅ |
+| 26 | Mesh File Editing | 5 | ✅ |
+| 27 | T-Splines (Form Workspace) | 5 | ✅ |
+| 28 | Rendering Quick Start | 5 | ✅ |
 | 29 | 2D Manufacture Drawings | 5 | ✅ |
 | 30 | Animation | 5 | ✅ |
 
