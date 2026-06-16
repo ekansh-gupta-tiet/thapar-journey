@@ -16,7 +16,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
 | CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days complete | Suspension corner assembly — starts Jun 24 |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ · Wk 4 active | Engineering calculator final project |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ · Wk 4 ✅ | Engineering calculator final project |
 | German | Language Transfer + Easy German YouTube + Anki | LT Track 3 complete · Easy German starts vacation | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
@@ -26,7 +26,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 ## Pre-college progress (May–July 2026)
 
 - Fusion 360: **30 parts** modelled ✅ — Kevin Kennedy 30-day course complete (Jun 17, 2026)
-- Python: CS50P Wk 3 ✅ · Wk 4 (Libraries) active
+- Python: CS50P Wk 4 ✅ · Wk 5 (Unit Tests) next
 - German: LT Track 3 complete · Easy German starts Jun 19 vacation · Nicos Weg frozen at ep 26
 - AI-900: voucher pending redemption · exam deadline Aug 18
 - GitHub: commits ongoing since Day 1
@@ -69,7 +69,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 - Key techniques this week: shell tool, rectangular pattern, polygon sketch
 
 **Python — CS50P:**
-- Week 0: All 5 problem sets complete ✅
+- Week 0: All problem sets complete ✅
 - Week 1 (Conditionals): All problem sets complete ✅
 
 **What I learned this week:** The pattern tool in Fusion 360 removes a lot of repetitive work — building the ice cube tray made it obvious why parametric CAD is more powerful than manual drafting.
@@ -126,11 +126,11 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 13–30 complete — **entire 30-day course finished Jun 17, 2026** ✅
-- Parts/topics: tea kettle, sketch constraints, painter's tripod, STL to solid, user parameters & joints, 3D printable hinges, one-part molds, two-part molds, assemblies with joints, sheet metal, surface modeling propeller, sculpt/form modeling, CAM toolpaths, simulation stress analysis, 2D manufacture drawings, animation
+- Parts/topics: tea kettle, sketch constraints, painter's tripod, STL to solid, user parameters & joints, 3D printable hinges, one-part molds, two-part molds, assemblies with joints, sheet metal, surface modeling propeller, mesh file editing, T-splines (form workspace), rendering quick start, 2D manufacture drawings, animation
 - Key techniques: Drawing workspace for manufacture drawings, Animation workspace with storyboard timeline and keyframed component transforms
 
 **Python — CS50P:**
-- Week 4 (Libraries): lecture watched, problem sets in progress
+- Week 4 (Libraries): All problem sets complete ✅
 
 **What I learned this week:** The Drawing workspace is not just an export step — it is a live link to the 3D model, which means manufacture drawings update automatically when the part changes. In Animation, each component gets its own track on the storyboard timeline, and Manual Transform gives full positional control independent of joint constraints — essential for exploded-view sequences.
 
