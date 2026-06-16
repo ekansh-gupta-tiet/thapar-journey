@@ -15,9 +15,9 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | Active — Kevin Kennedy Day 12 | Suspension corner assembly by July |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ | Engineering calculator final project |
-| German | Language Transfer + Easy German YouTube + Anki | LT Track 3 · Easy German Ep 1 · Week 5 active | Goethe A1 exam — Oct 2026 |
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days complete | Suspension corner assembly — starts Jun 24 |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ · Wk 4 active | Engineering calculator final project |
+| German | Language Transfer + Easy German YouTube + Anki | LT Track 3 complete · Easy German starts vacation | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
@@ -25,9 +25,10 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Pre-college progress (May–July 2026)
 
-- Fusion 360: **12 parts** modelled
-- Python: CS50P Wk 2 ✅ · Wk 3 ✅ · Wk 4 lecture watched
-- German: LT Track 3 active · Easy German Ep 1 · Nicos Weg frozen at ep 26
+- Fusion 360: **30 parts** modelled ✅ — Kevin Kennedy 30-day course complete (Jun 17, 2026)
+- Python: CS50P Wk 3 ✅ · Wk 4 (Libraries) active
+- German: LT Track 3 complete · Easy German starts Jun 19 vacation · Nicos Weg frozen at ep 26
+- AI-900: voucher pending redemption · exam deadline Aug 18
 - GitHub: commits ongoing since Day 1
 
 ---
@@ -83,7 +84,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 7–8 complete
-- Parts built: extrude alternatives practice (Day 7), 3D printable part (Day 8)
+- Parts built: handlebar (Day 7), doorstop (Day 8)
 - Key techniques: boundary fill, press-pull, designing for 3D print constraints
 
 **Python — CS50P:**
@@ -102,7 +103,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **Fusion 360 (Kevin Kennedy 30-Day Course):**
 - Days 9–12 complete
-- Parts built: transitioning shapes (Day 9), phone stand (Day 10), surface intro (Day 11), SVG import plaque (Day 12)
+- Parts built: bulb (Day 9), phone stand (Day 10), dog bowl — surfaces intro (Day 11), slotted screwdriver (Day 12)
 - Key techniques: loft with rails, form-based surface modelling introduction
 
 **Python — CS50P:**
@@ -112,26 +113,49 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 - Completed "Students - Get the job" playlist (Jun 8–12)
 - Voucher claim form submitted; AI-900 exam to be taken before Aug 18
 
-**What I learned this week:** Language Transfer builds grammar through pattern recognition rather than memorisation — it is more effective for internalising German sentence structure than episode-based content alone. In Fusion 360, surfaces require a different mental model from solid bodies; the phone stand project made clear how sketch planes and loft profiles interact when the geometry stops being simple.
+**What I learned this week:** Language Transfer builds grammar through pattern recognition rather than memorisation — more effective for internalising German sentence structure than episode-based content alone. In Fusion 360, surfaces require a different mental model from solid bodies; the phone stand project made clear how sketch planes and loft profiles interact when the geometry stops being simple.
 
-**Week 5 focus (12–18 Jun 2026):**
-- Fusion 360: Days 11–30 — complete the Kevin Kennedy 30-day course this week
-- CS50P: Week 4 (File I/O) — lecture watched, problem sets in progress
-- German: Language Transfer 1 conversation/day · Easy German 1 video/day · Anki 10 words · Duolingo 15 min nightly · Nicos Weg reference only
-- AI-900: redeem voucher on arrival, book exam slot (deadline Aug 18)
+---
+
+## Week 5 log — 12–18 Jun 2026
+
+**German progress:**
+- Language Transfer: Track 3 complete (Tracks 1–3 done)
+- Easy German: begins during vacation (Jun 19)
+- Anki: 10 words/day maintained; Duolingo: 15 min nightly maintained
+
+**Fusion 360 (Kevin Kennedy 30-Day Course):**
+- Days 13–30 complete — **entire 30-day course finished Jun 17, 2026** ✅
+- Parts/topics: tea kettle, sketch constraints, painter's tripod, STL to solid, user parameters & joints, 3D printable hinges, one-part molds, two-part molds, assemblies with joints, sheet metal, surface modeling propeller, sculpt/form modeling, CAM toolpaths, simulation stress analysis, 2D manufacture drawings, animation
+- Key techniques: Drawing workspace for manufacture drawings, Animation workspace with storyboard timeline and keyframed component transforms
+
+**Python — CS50P:**
+- Week 4 (Libraries): lecture watched, problem sets in progress
+
+**What I learned this week:** The Drawing workspace is not just an export step — it is a live link to the 3D model, which means manufacture drawings update automatically when the part changes. In Animation, each component gets its own track on the storyboard timeline, and Manual Transform gives full positional control independent of joint constraints — essential for exploded-view sequences.
+
+**Week 6 plan (19–25 Jun 2026 — vacation):**
+- German: Language Transfer tracks 4+ (1 conversation/day on phone) · Easy German SEG Episodes 1–12
+- Suspension corner research: one topic/day — anatomy, wishbone geometry, upright + hub, brake disc, assembly strategy
+- Fusion 360 portfolio work resumes Jun 24 on return
 
 ---
 
 ## Repository structure
+
 ```
 thapar-journey/
-├── cad/                    # Fusion 360 .f3d files + screenshots
-│   ├── week1-4/            # Kevin Kennedy daily parts
+├── cad/
+│   ├── week-1/             # Days 01–03
+│   ├── week-2/             # Days 04–06
+│   ├── week-3/             # Days 07–08
+│   ├── week-4/             # Days 09–12
+│   ├── week-5/             # Days 13–15, 18–30
 │   └── portfolio/
-│       └── suspension-corner/   # Pre-college portfolio project (Weeks 6–8)
+│       └── suspension-corner/   # Pre-college portfolio project — starts Jun 24
 ├── python/
 │   └── cs50p-problemsets/  # CS50P solutions
-├── german-progress.md      # Episode-by-episode log
+├── german-progress.md      # Language Transfer + Easy German log
 └── README.md
 ```
 
@@ -140,7 +164,7 @@ thapar-journey/
 ## Roadmap
 
 ```
-Pre-college (May–Jul 2026)    →  CAD basics, CS50P, German A1
+Pre-college (May–Jul 2026)    →  CAD basics ✅, CS50P, German A1, suspension corner
 Semester 1–2 (Aug 2026–)     →  Engineering Drawing, MATLAB intro
 Semester 3–4                 →  ANSYS FEA, CATIA/NX, German B1
 Semester 5–6                 →  Research project, internship
