@@ -1,5 +1,4 @@
 # German Progress — Language Transfer + Easy German
-
 Target: Goethe A1 — October/November 2026
 
 ---
@@ -8,9 +7,9 @@ Target: Goethe A1 — October/November 2026
 
 | Track | Date | Concept |
 |-------|------|---------|
-| 1 | May 2026 | Introductory — core verb/pronoun foundation |
-| 2 | May 2026 | Introductory |
-| 3 | 11 Jun 2026 | Introductory |
+| 1 | Jun 2026 | Introductory — core verb/pronoun foundation |
+| 2 | Jun 2026 | Introductory |
+| 3 | Jun 2026 | Introductory |
 
 ---
 
@@ -18,7 +17,6 @@ Target: Goethe A1 — October/November 2026
 
 | Video | Date | Topic | Comprehension |
 |-------|------|-------|---------------|
-| Super Easy German Ep 1 | 11 Jun 2026 | — | — |
 
 ---
 
@@ -69,12 +67,12 @@ DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool onl
 
 ## Weekly summary
 
-| Week | Dates | LT Tracks | NW Episodes | Grammar focus |
+| Week | Dates | LT Tracks | EG Episodes | Grammar focus |
 |------|-------|-----------|-------------|---------------|
-| 1 | 15–21 May | — | 1–7 | sein/haben, present tense, accusative, modal verbs |
-| 2 | 22–28 May | — | 8–14 | Food/routine vocab, dative intro, shopping, directions, time |
-| 3 | 29 May – 4 Jun | — | 15–21 | Perfekt tense, reflexive verbs, adjective endings, werden |
-| 4 | 5–11 Jun | — | 22–26 | Dative prepositions, Konjunktiv II, subordinate clauses |
+| 1 | 15–21 May | — | — | sein/haben, present tense, accusative, modal verbs |
+| 2 | 22–28 May | — | — | Food/routine vocab, dative intro, shopping, directions, time |
+| 3 | 29 May – 4 Jun | — | — | Perfekt tense, reflexive verbs, adjective endings, werden |
+| 4 | 5–11 Jun | — | — | Dative prepositions, Konjunktiv II, subordinate clauses |
 | 5 | 12–18 Jun | 1–3 | — | Introductory — verb/pronoun foundation (LT) |
 
 ---
