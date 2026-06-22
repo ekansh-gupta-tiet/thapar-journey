@@ -1,0 +1,84 @@
+# FS Suspension Corner Assembly
+
+**File:** `fs-suspension-corner-v1.f3d`  
+**Software:** Autodesk Fusion 360 (Education License)  
+**Spec:** Formula Student — single suspension corner (outboard assembly)
+
+---
+
+## What I Built
+
+A parametric double wishbone suspension corner modelled to Formula Student geometry. The assembly comprises five components representing the complete outboard suspension package: lower A-arm, upper A-arm, upright, hub, and brake disc.
+
+The geometry follows a double wishbone layout where the upper arm is shorter and higher than the lower arm, forming a trapezoid from the front view. This configuration controls camber gain through suspension travel — the fundamental principle behind why Formula Student cars use double wishbone over MacPherson strut.
+
+---
+
+## Components
+
+| Component | Key Dimensions | Notes |
+|-----------|---------------|-------|
+| Lower A-arm | 300mm spread, 18mm OD tube | 4130 chromoly spec |
+| Upper A-arm | 240mm spread, 18mm OD tube | Shorter = negative camber gain |
+| Upright | 60×40×150mm block | Central hub bore 42mm dia |
+| Hub | 42mm shaft, 100mm flange | Shaft seats through upright bore |
+| Brake disc | 210mm OD, 80mm ID, 8mm thick | Mounts to hub flange |
+
+---
+
+## Techniques Used
+
+- **User Parameters** — `tube_od`, `lower_wishbone_length`, `upper_wishbone_length`, `chassis_spread` driving all key dimensions
+- **Sweep** — circular profile swept along V-path lines for both A-arm tube pairs
+- **Combine > Join** — sphere placed at apex junction to close tube gap, then merged into single body
+- **Extrude Cut** — hub bore on upright face; inner hole on brake disc ring
+- **Multi-body to multi-component** — each part modelled as a separate component inside a single assembly file
+- **Move/Copy** — component positioning within assembly space
+- **Appearances** — Steel (arms/upright), Aluminium (hub), Cast Iron (brake disc)
+
+---
+
+## Key Rules Learned
+
+- Sweep paths must share the same sketch plane or a 3D sketch — mixing planes causes the Y-offset gap problem encountered between the two A-arms
+- Sphere at tube apex junction is the correct method for filling sweep endpoint gaps; diameter must match tube OD exactly
+- Grounded components cannot be moved at the component level — unground first via right-click in browser
+- Extrude Cut direction matters: negative value cuts inward from the selected face
+
+---
+
+## Dimensions Reference
+
+| Parameter | Value |
+|-----------|-------|
+| Track width (FS typical) | 1200mm |
+| Lower wishbone length | 300mm |
+| Upper wishbone length | 240mm |
+| Upright height | 150mm |
+| Tube OD | 18mm |
+| Tube wall | 1.5mm |
+| Hub bearing seat | 42mm dia |
+| Brake disc OD | 210mm |
+| Wheel size | 13 inch |
+
+---
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `fs-suspension-corner-v1.f3d` | Main assembly — all 5 components |
+| `isometric.png` | Hero render — 3/4 isometric view |
+| `front.png` | Front view showing trapezoid geometry |
+
+---
+
+## Time Taken
+
+~4 hours across 2 sessions (includes geometry debugging and component positioning)
+
+---
+
+## Why This Project
+
+Built as the centrepiece CAD portfolio piece for SAE Thapar application (Aug 2026). The suspension corner was chosen specifically because it demonstrates multi-component assembly thinking, not just single-part modelling — and because double wishbone geometry is the foundation of every Formula Student car's chassis setup.
