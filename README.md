@@ -17,7 +17,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 |-------|--------------|--------|-----------|
 | CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days complete | Suspension corner assembly — starts Jun 24 |
 | Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ · Wk 4 ✅ | Engineering calculator final project |
-| German | Language Transfer + Easy German YouTube + Anki | LT Track 3 complete · Easy German starts vacation | Goethe A1 exam — Oct 2026 |
+| German | Language Transfer + Easy German YouTube + Duolingo | LT Track 15 complete · SEG Ep 1–30 complete | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
@@ -27,8 +27,8 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 - Fusion 360: **30 parts** modelled ✅ — Kevin Kennedy 30-day course complete (Jun 17, 2026)
 - Python: CS50P Wk 4 ✅ · Wk 5 (Unit Tests) next
-- German: LT Track 3 complete · Easy German starts Jun 19 vacation · Nicos Weg frozen at ep 26
-- AI-900: voucher pending redemption · exam deadline Aug 18
+- German: LT Track 15 complete · Easy German (Slow German) Ep 1–30 complete · Anki discontinued · Duolingo maintained nightly · Nicos Weg frozen at ep 26 (reference only)
+- AI-900: passed ✅ (exam taken Jun 29, 2026 via OnVUE) — certificate posted to LinkedIn
 - GitHub: commits ongoing since Day 1
 
 ---
@@ -134,10 +134,42 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 **What I learned this week:** The Drawing workspace is not just an export step — it is a live link to the 3D model, which means manufacture drawings update automatically when the part changes. In Animation, each component gets its own track on the storyboard timeline, and Manual Transform gives full positional control independent of joint constraints — essential for exploded-view sequences.
 
-**Week 6 plan (19–25 Jun 2026 — vacation):**
-- German: Language Transfer tracks 4+ (1 conversation/day on phone) · Easy German SEG Episodes 1–12
-- Suspension corner research: one topic/day — anatomy, wishbone geometry, upright + hub, brake disc, assembly strategy
-- Fusion 360 portfolio work resumes Jun 24 on return
+---
+
+## Week 6 log — 19–25 Jun 2026 (vacation)
+
+**German:**
+- Language Transfer: Tracks 4+ complete
+- Easy German (Slow German): Episodes 1–12 complete
+- Anki: 10 words/day maintained; Duolingo: 15 min nightly maintained
+
+**AI-900:**
+- Completed all Microsoft Learn study modules
+- Exam booked: June 29, 2026 via OnVUE
+- Practice tests: June 25–27; system check: June 28
+
+**CAD / Suspension corner:**
+- Phase 1 geometry study delayed to June 25 — begins this week
+- Phase 2 component CAD start date unchanged: June 30
+
+**Python — CS50P:**
+- On pause during vacation week
+
+**What I learned this week:** Language Transfer works best as a daily practice rather than a binge — short sessions through vacation built more retention than long study blocks would have. AI-900 module work clarified the boundary between Azure ML services and general ML concepts, which had been blurry.
+
+---
+
+## Week 7 log — 26 Jun – 2 Jul 2026
+
+**German:**
+- Language Transfer: Track 15 complete
+- Easy German (Slow German): Episodes 13–30 complete (total: 30)
+- Anki: discontinued
+- Duolingo: 15 min nightly maintained
+
+**AI-900:**
+- Exam taken June 29, 2026 — **passed** ✅
+- Certificate posted to LinkedIn
 
 ---
 

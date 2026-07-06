@@ -63,6 +63,21 @@ Primary track switched from DW Nicos Weg to:
 
 DW Nicos Weg: 26 episodes complete — continuing as reference/exercise tool only.
 
+## Week 6 — June 19–25, 2026 (vacation)
+
+**Language Transfer**
+- Tracks 4+ completed
+- Sentences becoming more natural; less active construction, more instinctive output
+
+**Easy German (Slow German)**
+- Episodes 1–12 complete
+- Comfortable following at slow pace; vocabulary in context more memorable than Anki alone
+
+**Anki / Duolingo**
+- 10 words/day and 15 min nightly maintained through vacation
+
+**Status:** On track for A1 — Oct/Nov 2026
+
 ---
 
 ## Weekly summary
