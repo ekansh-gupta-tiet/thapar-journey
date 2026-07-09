@@ -15,9 +15,9 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days complete | Suspension corner assembly — starts Jun 24 |
-| Python | CS50P → numpy/matplotlib → automotive data | Wk 0 ✅ · Wk 1 ✅ · Wk 2 ✅ · Wk 3 ✅ · Wk 4 ✅ | Engineering calculator final project |
-| German | Language Transfer + Easy German YouTube + Duolingo | LT Track 15 complete · SEG Ep 1–30 complete | Goethe A1 exam — Oct 2026 |
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days · Suspension corner rebuild in progress | Full kinematics + roll centre — phases run Jul 4–31 |
+| Python | CS50P → numpy/matplotlib → automotive data | Wk 0–5 ✅ · Wk 6 (File I/O) in progress | Engineering calculator final project |
+| German | Language Transfer + Easy German YouTube + Duolingo | LT Track 15 complete (final track) · SEG Ep 1–30 complete | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
@@ -26,8 +26,8 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 ## Pre-college progress (May–July 2026)
 
 - Fusion 360: **30 parts** modelled ✅ — Kevin Kennedy 30-day course complete (Jun 17, 2026)
-- Python: CS50P Wk 4 ✅ · Wk 5 (Unit Tests) next
-- German: LT Track 15 complete · Easy German (Slow German) Ep 1–30 complete · Anki discontinued · Duolingo maintained nightly · Nicos Weg frozen at ep 26 (reference only)
+- Python: CS50P Wk 5 (Unit Tests) ✅ · Wk 6 (File I/O) in progress
+- German: LT Track 15 complete (final track, course finished) · Easy German (Slow German) Ep 1–30 complete (finished) · Anki discontinued · Duolingo maintained nightly · Nicos Weg frozen at ep 26 (reference only)
 - AI-900: passed ✅ (exam taken Jun 29, 2026 via OnVUE) — certificate posted to LinkedIn
 - GitHub: commits ongoing since Day 1
 
@@ -161,6 +161,14 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Week 7 log — 26 Jun – 2 Jul 2026
 
+**CAD / Suspension corner:**
+- Fusion 360 modelling attempted on the wishbone geometry — found both A-arm outer points placed at X=0 instead of outboard at X=300, a fundamental geometry error
+- Given the gap in kinematics guidance, scope was temporarily cut down to a static-only assembly to avoid stalling
+- Rebuild deferred, pending a proper course-driven approach
+
+**Python — CS50P:**
+- Week 5 (Unit Tests): All problem sets complete ✅ — Problem Set 5 done
+
 **German:**
 - Language Transfer: Track 15 complete
 - Easy German (Slow German): Episodes 13–30 complete (total: 30)
@@ -170,6 +178,17 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 **AI-900:**
 - Exam taken June 29, 2026 — **passed** ✅
 - Certificate posted to LinkedIn
+
+**What I learned this week:** The static-only geometry error was a wake-up call — attempting kinematics without a structured methodology just produces wrong geometry, not a simpler version of the right one. Better to pause and follow a guide than push forward on guesswork.
+
+---
+
+## Week 8 log — 3–9 Jul 2026
+
+**German:**
+- Language Transfer: Track 15 confirmed as final track — course complete
+- Easy German (Slow German): confirmed complete at Episode 30
+- Duolingo: 15 min nightly maintained
 
 ---
 
@@ -184,7 +203,7 @@ thapar-journey/
 │   ├── week-4/             # Days 09–12
 │   ├── week-5/             # Days 13–15, 18–30
 │   └── portfolio/
-│       └── suspension-corner/   # Pre-college portfolio project — starts Jun 24
+│       └── suspension-corner/   # Pre-college portfolio project — full kinematics rebuild, Jul 4–31
 ├── python/
 │   └── cs50p-problemsets/  # CS50P solutions
 ├── german-progress.md      # Language Transfer + Easy German log
