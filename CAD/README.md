@@ -71,10 +71,9 @@ Design work begins: June 24, 2026
 3. Select the downloaded file
 
 ---
-
 ## Progression target
 
-- [x] Pre-college: 30 KK parts ✅ | suspension corner assembly in progress
+- [x] Pre-college: 30 KK parts ✅ | suspension corner assembly ✅ (static, complete)
 - [ ] Sem 1: First full assembly (2+ parts with joints)
 - [ ] Sem 3: ANSYS FEA for structural coursework
 - [ ] Sem 4: Migrate to CATIA/NX for advanced modelling
