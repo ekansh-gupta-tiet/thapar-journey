@@ -15,7 +15,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 | Track | Tool / Course | Status | Milestone |
 |-------|--------------|--------|-----------|
-| CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days · Suspension corner rebuild in progress | Full kinematics + roll centre — phases run Jul 4–31 |
+| CAD | Fusion 360 → CATIA/NX (Sem 4) | ✅ 30/30 KK days · Suspension corner complete (static) | Kinematics/roll centre deferred to Team Fateh mentorship |
 | Python | CS50P → numpy/matplotlib → automotive data | Wk 0–5 ✅ · Wk 6 (File I/O) in progress | Engineering calculator final project |
 | German | Language Transfer + Easy German YouTube + Duolingo | LT Track 15 complete (final track) · SEG Ep 1–30 complete | Goethe A1 exam — Oct 2026 |
 | MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
@@ -26,6 +26,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 ## Pre-college progress (May–July 2026)
 
 - Fusion 360: **30 parts** modelled ✅ — Kevin Kennedy 30-day course complete (Jun 17, 2026)
+- Suspension corner portfolio project: **complete** ✅ — static double wishbone assembly (lower A-arm, upper A-arm, upright, hub, brake disc), rebuilt after a first attempt had incorrect anatomy
 - Python: CS50P Wk 5 (Unit Tests) ✅ · Wk 6 (File I/O) in progress
 - German: LT Track 15 complete (final track, course finished) · Easy German (Slow German) Ep 1–30 complete (finished) · Anki discontinued · Duolingo maintained nightly · Nicos Weg frozen at ep 26 (reference only)
 - AI-900: passed ✅ (exam taken Jun 29, 2026 via OnVUE) — certificate posted to LinkedIn
@@ -185,10 +186,37 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 
 ## Week 8 log — 3–9 Jul 2026
 
+**CAD / Suspension corner:**
+- Reviewed the static assembly against Formula Student anatomy — found the model was incorrect: one arm crossed diagonally through the brake disc instead of proper A-arms connecting to the upright
+- Decision: drop full kinematics for now, rebuild a clean static double wishbone assembly with correct anatomy; reserve kinematic simulation for when Team Fateh mentors + a reference car are available
+
+**Python — CS50P:**
+- No progress this week
+
 **German:**
 - Language Transfer: Track 15 confirmed as final track — course complete
 - Easy German (Slow German): confirmed complete at Episode 30
 - Duolingo: 15 min nightly maintained
+
+**What I learned this week:** Scope creep on the kinematics rebuild without proper guidance was producing wrong geometry, not just incomplete geometry — better to cut scope back to something correct and buildable than keep pushing on a course that wasn't landing.
+
+---
+
+## Week 9 log — 10–16 Jul 2026 (in progress)
+
+**CAD / Suspension corner:**
+- Rebuilt suspension corner as a clean static double wishbone assembly — lower A-arm, upper A-arm, upright, hub, brake disc, coilover
+- Correct anatomy verified: both A-arms are proper V-shaped wishbones converging into the upright (not crossing through the disc); front view shows the correct trapezoid (upper arm shorter/higher than lower arm), demonstrating the camber-gain principle
+- Portfolio project marked complete — static scope
+
+**Python — CS50P:**
+- Week 6 (File I/O): lecture watched — problem sets not yet started
+
+**German:**
+- Language Transfer and Easy German (Slow German) already complete as of Week 7/8 — no new milestones this week
+- Duolingo: 15 min nightly maintained
+
+**What I learned this week:** The earlier broken versions traced back to not using offset planes properly — sketches and sweep paths weren't anchored to the right reference planes, which is what caused the arm-through-disc geometry error. Getting offset planes right was the actual fix, not just redoing the sketches.
 
 ---
 
@@ -203,7 +231,7 @@ thapar-journey/
 │   ├── week-4/             # Days 09–12
 │   ├── week-5/             # Days 13–15, 18–30
 │   └── portfolio/
-│       └── suspension-corner/   # Pre-college portfolio project — full kinematics rebuild, Jul 4–31
+│       └── suspension-corner/   # Pre-college portfolio project — static double wishbone, complete
 ├── python/
 │   └── cs50p-problemsets/  # CS50P solutions
 ├── german-progress.md      # Language Transfer + Easy German log
@@ -215,7 +243,7 @@ thapar-journey/
 ## Roadmap
 
 ```
-Pre-college (May–Jul 2026)    →  CAD basics ✅, CS50P, German A1, suspension corner
+Pre-college (May–Jul 2026)    →  CAD basics ✅, CS50P, German A1, suspension corner ✅
 Semester 1–2 (Aug 2026–)     →  Engineering Drawing, MATLAB intro
 Semester 3–4                 →  ANSYS FEA, CATIA/NX, German B1
 Semester 5–6                 →  Research project, internship
